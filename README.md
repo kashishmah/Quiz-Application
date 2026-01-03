@@ -6,8 +6,8 @@ An interactive Quiz Web Application built using HTML, CSS, and JavaScript. The a
 
 🚀 Live Demo & Source Code
 
-* GitHub Repository: [https://github.com/your-username/quiz-app]
-* Live Demo: [ https://kashishmah.github.io/Quiz-Application/]
+* GitHub Repository: [https://github.com/kashishmah/Quiz-Application]
+* Live Demo: [https://kashishmah.github.io/Quiz-Application/]
 
 
 ---
@@ -78,4 +78,5 @@ Quiz-App/
 ---
 
 ⭐ If you like this project, feel free to star the repository and share feedback!
+
 
